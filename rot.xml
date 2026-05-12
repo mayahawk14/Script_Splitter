@@ -1,0 +1,10 @@
+<root>
+  <products>
+    <product>
+      <name attribute="product_name">Dark Red Energy Potion</name>
+      <price attribute="product_price">$4.99</price>
+      <rate attribute="product_rate">4.7</rate>
+      <description attribute="product_description">Bring out the best in your gaming performance.</description>
+    </product>
+  </products>
+</root>
