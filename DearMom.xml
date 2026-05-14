@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Script" Template="No" Version="6">
+
+  <DocumentRef DateTime="20260512T040221" id="fef09e2d-67c1-4d0c-964c-e5a86d385420">
+    <XRef DateTime="19691231T175959" id="31eebf07-025b-4252-816e-1747d15525b1"/>
+  </DocumentRef>
+
+  <Content>
+    <Paragraph Type="Scene Heading" id="17f6a65e-1bd7-417f-a8bb-883100542b4f">
+      <SceneProperties Length="5/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MARIANNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. THERAPIST OFFICE - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f94f3670-c531-4a0d-b1d3-71e8a3b846f2">
+      <Text>Two people sit across from each other. The voices and movements of the city streets can be heard outside, but neither person can hear it over the sound of their own silence. ROWAN, a short sixteen year old boy with a grungy style sits on a fainting couch staring off into space.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="a155ee1f-c2ae-467e-948c-ad927a824123">
+      <Text>MARIANNE(O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb508c86-3904-42c8-8208-14c54e0a1bf5">
+      <Text>Rowan... Rowan... Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8dab6c8c-2925-402b-a457-fa4e3d5c18c6">
+      <Text>MARIANNE, Rowan's therapist, an older, professionally styled woman with sympathy in her eyes. Rowan hums out a reply.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b22c3053-34f0-47ca-8884-fbbc399d01be">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6b40435b-86a7-469c-b308-8532725c2530">
+      <Text>Do you want to talk about it?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8d8b4881-cc67-41e4-bf58-be8bf7626185">
+      <Text>Rowan shifts, bouncing his leg.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b5cb17f2-6192-45e9-af0e-532485a5e39b">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="8ff2880f-3069-4fbb-ba34-a70617faa43f">
+      <Text>Would you like to start at the beginning? I find running through my own situations really helps me process them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d1422385-b23f-475e-93d7-1fd4805ac937">
+      <Text>The therapist maintains eye contact and smiles, despite Rowan's avoidance.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="042862b0-1d54-45b4-b41a-3ef822baa399">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a2961af5-cc50-47d5-99bf-5c5a79743c12">
+      <Text>I miss your mom too. Always such a kind soul.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="fdf68058-dd8f-4a74-9b32-c9a149d7452c">
+      <SceneProperties Length="4/8" Page="1" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MARIANNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0adf36d6-62ce-4021-a3a9-8cb8295e9bfa">
+      <Text>(MUMBLES)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3afeb385-5814-407a-b46d-e4fe7ac5e8b8">
+      <Text>The towing company returned her stuff from the crash yesterday.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5e19c830-bf05-4111-8ed1-e4904bdd9fb6">
+      <Text>Rowan reaches up and holds his necklace, a small silver cross.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ec4a9dc9-d1c5-4f9e-b67e-29b1a3b0d3c0">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9ef00284-f597-45ca-aedc-cf06fa7ddff1">
+      <Text>That necklace is new...</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8ab8e0d9-672b-48c8-b561-8950fffbc8e7">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fda1459e-f6ad-40cd-baf3-828b5bbf946a">
+      <Text>It was a gift.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c68d3fd1-133c-4971-8c9d-12a8e9923bc8">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="14548b04-81e3-4cfc-aae8-75180425fc03">
+      <Text>It's beautiful, Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8af507f9-09d9-403c-87ea-dd22f593ea6d">
+      <Text>Rowan relaxes at Marianne's comment, his movements slowing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d88690d5-b909-48f7-940b-e144a77c2919">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c2ed5f87-48e5-4aab-9e9c-d04069725d24">
+      <Text>Are you prepared for the funeral tomorrow?</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="76610ba6-e3af-40f7-9a52-55cac7dea9ec">
+      <SceneProperties Length="2/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. ROWAN'S HOUSE - BATHROOM - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="024b1b52-8d84-44d3-b4ba-dbdcf5a0cc12">
+      <Text>Rowan stands in front of the mirror, a look of exhaustion on his face as he takes in the black and white suit on his frame. Standing in his bathroom, brightly lit and a bit dirty, clearly missing a feminine touch. He struggles with his tie, not able to make the knot. Rowan's DAD walks by, an also short, stern-looking older man.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="8c448a27-ff7a-4fbe-a359-d7211df2a60f">
+      <SceneProperties Length="1/8" Page="2" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="a57b78ef-d709-496d-bb03-bee05084e0d2">
+      <SceneProperties Length="1 5/8" Page="2" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DAD">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>(CHUCKLES)</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2b009890-250c-4a8b-ba10-fe348c1d8b51">
+      <Text>Let me give you a hand.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6b5a869a-6b77-4bfb-98ab-407a6fecc47e">
+      <Text>Rowan rolls his eyes, visibly annoyed, not looking at him. He drops the tie, surrendering it to his dad. Stepping in front of Rowan, his dad quickly begins tying the fabric.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8bfa8ddb-d9cb-465a-be88-faea30f3c5ba">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb9b5b69-aa29-4238-a20c-70c053553e41">
+      <Text>Your mother was always the one to do this for me, but I guess I've learned a thing or two from her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="74ee9c0e-e7b7-4aff-b0cc-3655a8b8cc0b">
+      <Text>The tie comes together easily, matching his fathers. The two stand side by side facing the mirror, taking in the moment.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ffb2c24a-258f-4705-b5c6-bd6989e7b57b">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7696f559-e257-4ed2-9637-babaf9c47fd7">
+      <Text>When I met Julie, it was New Years of 1999. We were-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="09587512-3510-4e55-a671-3d6305659c00">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="80e85a52-5b92-480a-9a02-84bddad99807">
+      <Text>At a party, I know. You've both told me a million times.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6a0bbf11-ff81-48d5-960f-051e6f380d28">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="32de1757-eb81-45a6-872e-6b17222c1328">
+      <Text>Give me a second. What we didn't tell you before is that we were both drunk. I was sprinting towards the bathroom when your mother ran into me and spilled red punch all over my white shirt.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c87cb592-d8c0-4192-8938-fc1cfdc89e7f">
+      <Text>Rowan watches his father become more animated than he has in weeks, the excitement of the story bleeding into him. He hangs onto his father's each word, laughing at his honesty.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d634d771-c609-46da-9466-8ee8b34e17b4">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7513da23-5d65-48b6-b31c-e082a9af38f3">
+      <Text>She was so quick to apologize, two party hats lopsided on her head and the sparkliest dress I've ever seen flying towards me to push me into the bathroom. For what seemed like forever, we tried to scrub that stain out of my shirt, only making it worse. After that night we were inseparable.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1beb14c1-e0a2-4e1a-8544-a1b97233d062">
+      <Text>Rowan and his father laugh at the retold memory, taking comfort in each other. Soon their faces relax, settling into a bittersweet smile. Tears well in Rowan's eyes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="cf8e8207-d680-46b7-811c-2e85e006e719">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="5cfbc024-5065-4f1f-8025-2e4fdc56e7c5">
+      <Text>Do you remember when mom said that I'm growing up too fast? That soon I won't need her anymore?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6fbbaf8a-14c6-4372-bc3e-44d18eb2b465">
+      <Text>His dad says nothing, looking down at the floor.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4561b789-13a0-47fd-b8ce-da55fa940d07">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="01096922-2acf-4362-8946-d73fbbbb8a65">
+      <Text>I'm not sure that's true anymore.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f1fd2ee-ffd4-47ac-8aed-4d991e1f337b">
+      <Text>Rowan begins crying. The room is silent besides Rowan's quiet sniffles. His dad grips his shoulders, forcing him to look up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b9780ec0-b76c-4f20-8ea1-185a328a89a7">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f8b5a355-7ba3-415c-8f5d-6363459082d8">
+      <Text>Alright, enough of that. Save your tears for the funeral. Is your speech ready?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d64a355e-67c3-429b-8dd8-72a8a9148b7e">
+      <Text>Rowans shoulders fall. His dad stares at him expectedly. Rowan wipes his tears and reaches for the note in his pocket.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c9b186a7-8ab8-4c3c-987b-45de15060e82">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="edfbcb92-07c2-4376-9641-ed70b28128cd">
+      <Text>Yeah. Hey, is it alright if I take my own car? I want to rehearse one more time.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="bf2b7ac3-455f-47a2-91ac-e35d3f400b06">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="fb847ad3-1b87-40cf-a61b-ee53828794e5">
+      <Text>(sighing)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f6c87578-375d-4074-b4a2-b91e3c5e38ff">
+      <Text>Sure, Rowan. Please don't be late.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="72d5d805-de9b-4488-a446-8f919b781ca0">
+      <Text>Rowan's dad pats his sons shoulder, glancing one more time at his own reflection before leaving the bathroom. Rowan stands alone.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="59da77b9-bed6-43b8-9317-7c58b0e5a1d8">
+      <SceneProperties Length="2" Page="4" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SETH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ROWAN'S HOUSE - MOM'S STUDY - DAY</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e824f5ec-5f30-4867-b5ad-43ea5e0be158">
+      <Text>Standing in the doorway, Rowan moves towards the desk. Opening up his crumpled paper, he looks toward the chair she once sat at. Taking a deep, shaky breath, he begins to mumble out the speech.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5be5d776-5a4d-4a0f-a556-d420deddb677">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2289f3ad-3c54-472e-a19c-fe379762cf76">
+      <Text>Dear mom...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e1a1ad6d-f373-469d-9c42-4e5f16edf19b">
+      <Text>As soon as he begins, the sound of his phone ringing interrupts him. RING. He sighs and fumbles for it in his pocket. He pulls it out and looks at the caller ID, sighing. It's SETH, Rowan's friend, with a laid-back tone of voice.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b78ce02e-23f4-40c9-b016-9a016b0038eb">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7a872c09-221e-4330-9b94-dcc7e9726889">
+      <Text>Hey, Seth, what's up?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d601d783-479f-4c62-af85-000c022659c1">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="88aa8c40-bcb1-468f-ae82-fb124d5f9681">
+      <Text>Waddup man, how you holding up?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="2ced9dec-291c-4780-a37e-5cdcd4f30497">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6e4672e2-1fb4-4d4f-8b14-4e1454aba101">
+      <Text>How do you think?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3c80510d-e5eb-45d4-95de-a60c0883f072">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="e1790f17-93df-4f63-95e7-afc25aa94632">
+      <Text>Type shit, type shit. I heard the funeral's today. Wanted to check in.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="d6f8da77-5a16-4a33-be11-0a62844614cc">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="32bf9177-f61c-419c-9bee-e8cc591011a4">
+      <Text>Yeah, sorry I didn't invite you. Close family only.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="c9882a06-4075-4565-8e69-babf3cb93506">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="505b6e84-7b4a-4ded-b3db-006123e63c33">
+      <Text>Daammmnnnn!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="8309da62-e783-4692-9a10-42ebb73d4618">
+      <Text>Rowan pulls the phone away from his ear, wincing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0ac4db3a-66c5-47fd-a127-fe921665a52b">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a7ca6f0c-c7dd-431c-9b84-a9097132db8f">
+      <Text>I thought I was family, Ro.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f09bc145-0f81-40be-a57a-72a95a6b08a4">
+      <Text>Rowan lets out a reluctant laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="47319118-8533-44cc-b547-c30fe9640622">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="51d2cdd3-8814-4281-b23a-bda4da1990f3">
+      <Text>No, but seriously. I'm really sorry about your mom.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="f3a5dafc-f3ba-46fe-848b-1def4c9569ff">
+      <Text>A beat passes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="187b5b22-2a2f-40bb-879f-ee1aa8c8d694">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a41ba10d-bbd8-4f2a-9c83-64e1ffcfa7dc">
+      <Text>Yeah, thanks. That means a lot. How have you been?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8cae3304-18ea-4f08-a144-53a54bb7b31e">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="41002844-ee99-46fe-a8be-ddf0c9bd300c">
+      <Text>Got fired from the video store last week. Remember Martha, my boss? Absolute bitch.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b6ffc557-ab29-4742-9165-b4807041eb7e">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="fcb69ac0-0433-4552-a9e5-b528354e805d">
+      <Text>What happened?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="9963d81e-54dd-4d9f-8f7e-e627ac62aa28">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c90e17b5-ef43-413d-8790-ad4ed3192cfb">
+      <Text>Supposedly, they got me on camera stealing, but you know how it is. She's a liar.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="98c3bd8d-1bc9-4258-b010-dd7a365dc104">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="4fa62214-cf64-47ec-9431-08c3849ea1c6">
+      <Text>Damn, I thought she was kinda nice.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c2254d6d-93a0-477a-bbde-05dee62c776d">
+      <Text>They both laugh.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="763ece57-c1a8-4c32-b7a3-4da45c762436">
+      <Text>SETH (O.S.)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="3ce2e8ad-09b7-4d36-a65b-455e65ec3be1">
+      <Text>Anyways, man. We haven't hung out in a while. It's been a minute. I was wondering if you wanted to pull up later, a few friends are coming over... We miss you...</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3c5b9801-f64e-4bde-ba7a-47082f31ab61">
+      <Text>The reality of the situation comes crashing back to Rowan. He glances down at the piece of paper in his hand, folding it back it up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f05dca87-5e82-4ab2-8b94-1661ebbc4b45">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f8f28391-115c-4454-aac8-e91fd2fae379">
+      <Text>I'll let you know. Thanks for calling, Seth.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="7168c927-1cd7-4ba0-bd24-3c6d3fb716ec">
+      <Text>Before Seth has a chance to say goodbye, Rowan ends the call. The study is quiet again. Glancing at the clock on the wall, he realizes he's already late to the funeral. He makes eye contact with a photo of his mom.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5896d197-4692-474e-a4b3-59b818fff082">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2c3726fc-1bd1-4045-bd21-ed402a2bbf37">
+      <Text>I'm so sorry, mom.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="659ddc3d-155d-4877-9a8d-92d96c6e0ad4">
+      <Text>Tossing the script to the side, he slumps to his mother's chair and falls into the seat. Rowan's made his decision. Tears slip down his face as he looks at the trinkets on her desk. Opening the desk drawers, he clutches old receipts, coupons, and mail to his chest. Sobbing now, he struggles to pick up a photo.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c537ad3c-351a-488a-80de-809693d6d61d">
+      <Text>A candid picture of his mom, two lopsided party hats and the sparkliest dress he's ever seen adorning her.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="65ad1ca5-7e22-40d0-b1fb-115593cacb54">
+      <Text>The room is exactly how she left it. Despite being surrounded by pieces of his mom, the weight of her absence overwhelms him. Rowan's head falls into his hands.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="5ff18be4-05a5-425b-9cc3-baaa7755db58">
+      <SceneProperties Length="3/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DAD">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ROWAN'S HOUSE - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="93f67fdf-5147-4b7a-aa7d-21d4701f9572">
+      <Text>The front door slams as Rowan's dad calls out his name.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6d02a327-cb64-4207-a73b-98ff3663f93d">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2d78a219-e4b8-4ad7-823a-45c0d3b670fa">
+      <Text>Rowan!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="67f20cf8-ce03-42b9-9652-0812cb69dc16">
+      <Text>Sighing, Rowan's dad loosens his tie as he stomps up the stairway. He rounds the corner to check Rowan's bedroom, seeing nothing but darkness.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="79af9671-3ea7-4fd8-9710-11fa476471f4">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="dd8c77ff-088a-4d97-8688-3166a3d12dae">
+      <Text>Rowan, where are you?!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b7eee485-ef8a-4133-88b0-a530f6984ad3">
+      <Text>He rushes down the hallway back towards the stairs. Stopping, he notices the cracked door to Julie's study. Slowly walking over and looking in, he opens the door. His face relaxes as he sees a dead asleep Rowan sprawled across his mom's desk. A surprised moment passes.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="50b8c16b-0a0a-492e-847b-83d3718b5314">
+      <SceneProperties Length="1 5/8" Page="6" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="DAD">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. ROWAN'S HOUSE - MOM'S STUDY - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="17203451-bde2-4018-9f59-44683df8f0d8">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1facf7d3-4112-492a-ba3f-c5d8bbf64128">
+      <Text>Rowan, wake up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4e07cd3b-1e34-4fba-8365-b81e63ad2b5d">
+      <Text>He gently shakes Rowan by the shoulder, and Rowan stirs awake, disoriented.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="beaa868d-daf0-46cb-a102-0946d6dd2d2f">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="8183ea0c-e934-4db4-bb0c-82c983bfa08e">
+      <Text>(sarcastic)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d3fb1343-408c-4cb7-93d2-79531a37a748">
+      <Text>You finish that speech? You slept through the funeral.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="0dc3195a-1464-4b97-9adb-e042cf96ac82">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="cb544d45-42d9-4794-9699-c13b7d2d3fb5">
+      <Text>Oh, fuck... I'm sorry, I'm sorry-</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="09a630d7-167a-4653-9a36-183aace0a077">
+      <Text>His father cuts him off, sighing.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e61b4d6c-c7dd-4443-90cb-b77b6208db4d">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="42e3c31e-485a-43ab-9900-f4984b5c1431">
+      <Text>Let's clean this up.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ad268454-2eb2-482c-81f0-96325c454f88">
+      <Text>They both take in the scattered papers surrounding Julie's desk. The drawers pulled out and picture frames faced flat. Beginning to put things back in order, Rowan slides off the chair and stands up. While shuffling through papers, Rowan notices an odd looking folder, stamped and closed. Opening it up, his dad suddenly stares at him, frozen.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="fce244eb-4280-4b02-ac70-a0afc7660cac">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="1dcc221d-378f-4f83-a5d1-e5213c079020">
+      <Text>What the hell is this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="da23b92f-bf24-4d9f-9006-a37b04f0aa48">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="35a37bf4-974b-4fbf-b840-3fae30d7d178">
+      <Text>Rowan, calm down.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="769f2974-7abf-48a2-9950-0bf420cf991b">
+      <Text>Inside the folder lays a packet of legal sheets. Clipped to the front is a page titled 'Divorce Agreement'. Two signature lines sit at the very bottom, with only one name signed.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="6cd7dc03-9cfc-4bfa-82b3-a29ebda9116d">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Parenthetical" id="ef6d15cb-977a-4589-89ee-0f18b5a739fc">
+      <Text>(CONT'D)</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="41173e93-0704-40cd-95c2-0fd18e08a23a">
+      <Text>You don't understand-</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="edf0e5b6-12d1-4785-bad7-b71f0502c40a">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="99e9e986-3972-4789-a688-0cfdf6f81b5c">
+      <Text>Of course I don't fucking understand! How could you do this?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3dda1856-37be-4d29-beb0-146f9fb41547">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="50f63fcf-7f9d-49d8-a191-d5df7ebaee18">
+      <Text>We were going to tell you, but after everything happened... Listen, the decision was mutual.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ac81f7ad-a632-4008-9923-caa4b87e5aa2">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9f556377-dd27-4f62-b3d2-2cfe2c4497f7">
+      <Text>Then where the fuck is her signature?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="992e73a8-7645-448b-a01c-501b2024259a">
+      <Text>His father stays silent, looking away. Rowan stares him down.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3d039dcb-2a5b-43ed-92c5-457f61795f53">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="62562239-13d6-4713-8f9f-eecda8e244ee">
+      <Text>You're a coward.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8ce9f431-1fd9-49f2-8b39-9aff271de3c7">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2afc4168-c6d5-4daa-91ce-661976b7bc1b">
+      <Text>And you're not? You missed your own mother's funeral, Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="3110392b-3e27-4825-ae60-76a11e79ce43">
+      <Text>Rowan stumbles back, hurt by his dad's words. Dropping the papers, he turns around and rushes out of the room. His dad follows quickly after him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f5d9e9c2-1b3d-45ae-be61-0cdbce9d4c3f">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="9d621765-c3d2-4ded-a7ce-1ea0241d0f0f">
+      <Text>Rowan, wait!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d23440a8-9002-45cd-8bc4-f4a2ec6f951c">
+      <Text>He chases him down the stairs, calling after him.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7027dbee-9715-4b0c-9afd-fcc20927656f">
+      <Text>DAD</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="37b37591-963f-48a9-b4f1-368b96c8252b">
+      <Text>I'm sorry! I'm sorry, Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5b41b80f-59bb-4453-98e3-5659d496f158">
+      <Text>Reaching the front door, Rowan swings it open and stops, not turning around.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="990aaebe-8d55-483b-861a-5d1ac53171cf">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ac372ca6-0ccf-4055-815e-ebf4866d38a2">
+      <Text>I wish it had been you.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="61883dad-c7d4-4bc2-825d-e6005c8d0acd">
+      <SceneProperties Length="6/8" Page="7" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SETH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. SETH'S HOUSE - FRONT YARD - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a7d206a0-abff-440b-9541-99536a86e079">
+      <Text>Seth, a tall teenager stands on his porch wearing an 'RIP Liam Payne' t-shirt and a smirk on his face. He stubs out a cigarette, turning back toward the front door to peer inside his house. Inside is packed with teenagers laughing and dancing, a thin layer of smoke clings to the air. People scattered about the yard talk amongst themselves. A familiar car pulls up to the curb.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="f53556eb-6ca0-4e81-9061-669df488185f">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="65a3b90e-203b-413a-80ff-04a0b8b30fc3">
+      <Text>Rooowwwwwaaannnn! My man!</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="35441c9e-36b2-4a6a-9572-49e8a2d2c98c">
+      <Text>Recognizing the car, he calls out to his friend. He walks towards the edge of the yard. Rowan gets out of his car, meeting him in the middle.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="39f0268a-36da-4402-852b-126474ee1aba">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c6920e17-2d4f-4b02-864f-2c4fdcc99fec">
+      <Text>I knew you'd cave! What's up?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="5f9c34e9-00c3-44f1-89db-4e106933e02d">
+      <Text>Rowan quickly wipes the remaining tears from his eyes, looking away.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="acaa0b8c-83b8-4c58-b2a6-28f070c1b72a">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a5489858-a670-40cd-b22e-79084642df6a">
+      <Text>Are you crying?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="1f050bb7-dc78-4684-a9e5-c22bbdd59301">
+      <Text>Seth is not discreet. People begin to stare at the two.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="4233131e-719a-4ca9-b385-a04478e2f173">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="db659870-5842-409b-8ba8-ca1e0dcf6c77">
+      <Text>Bro, shut the fuck up.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="8a762577-7379-4b07-9d38-29189c483361">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="89805919-b5b8-49eb-9fbe-ae3e5ef7eb5b">
+      <Text>Yo, chill, chill. Come inside and I'll get you something.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b335431e-12f8-4855-b3f1-2be40423079f">
+      <Text>The friends dap each other up. Seth puts an arm around Rowan's shoulders and steers him inside the house.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="0f4187bb-f38a-485c-9223-ebd723033c04">
+      <SceneProperties Length="1 3/8" Page="8" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="GIRL">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="SETH">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT. SETH'S HOUSE - KITCHEN - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="b0732da7-7996-47d0-bd6f-5c8677db6d27">
+      <Text>The pair squeeze their way through the crowd lingering around the kitchen island, where a mess of bottles and solo cups scatter along the surface. Seth grabs a cup and turns on the faucet, getting Rowan a drink of water.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e72f54b-93fe-4ec6-a788-2f4918ab2657">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f665020b-be4d-4c24-b3c1-ab662a0b83bc">
+      <Text>Thanks.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="01d58a1c-70fe-49b6-b93e-401dc9c5b8d9">
+      <Text>Rowan chugs it.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="1d7b8d91-5b11-4590-825e-e86471497322">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="2d52a3c0-9c74-4c76-a979-3f1a2cc96fd2">
+      <Text>Are you okay?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="184ba4a5-ca12-4e45-9e3b-06f944158504">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="32d75a98-2333-4a58-b153-eb3fedddbf04">
+      <Text>My parents were getting a divorce.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7e15003a-caef-4745-913a-d92fd61b6905">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="33d115dd-784d-44ea-af43-6cf93cccc1a5">
+      <Text>What?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6806d9e8-d4e9-4c50-b0fa-735c05d9fec0">
+      <Text>A GIRL interrupts them from across the counter, sweaty and clearly intoxicated. Her bloodshot eyes focus on Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="92c6943e-24b8-48f5-96f5-53e4590606ad">
+      <Text>GIRL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="c4ed2501-3ca8-4551-aba8-cdd75d65e679">
+      <Text>Hey, I like your shirt.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="473b91ba-c4ab-460d-89be-54d83bd91e74">
+      <Text>Rowan ignores Seth, focusing on the girl.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="b6529791-1518-46a3-a7e9-4d56569337ac">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="591241db-3a34-483f-8714-0190a9e3c444">
+      <Text>Thank you, yours is cool too.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="ca27bb52-e02d-4ab3-a28f-f2209ab97909">
+      <Text>The girl is wearing a stained HARVARD crop-top.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a74bd826-0386-4e00-b130-0a6fb86565e5">
+      <Text>Seth smacks Rowan's shoulder, trying to get his attention.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="7de38031-2d0a-4f01-9cbc-4361d6257e72">
+      <Text>GIRL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="d24707ae-71bb-4c2f-a365-ff3aee7ffe14">
+      <Text>You're cute.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="fafce6ca-973f-4a04-88f4-b29073e438f7">
+      <Text>Rowan turns back to Seth, who looks at the girl embarrassed and disgusted.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e8641c77-564b-4a9b-b0bd-31fe487ee23f">
+      <Text>GIRL</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="073d5a99-510c-4a3b-af78-cedadc74b9dc">
+      <Text>I heard you talking, funerals suck. Want some company?</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="83d7cc0f-e65e-4c83-abd8-5bbc37bc041b">
+      <Text>The girl pulls out two differently colored pills from her pocket, offering them to Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="5f060566-6380-4206-9406-0d0d25e55c19">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="7eabd3ac-e18b-4d5b-93f9-b64df49e07ed">
+      <Text>What the fuck? Rowan, don't take that shit.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="63a717c5-84c2-4654-bc1f-cb7545ff5e5a">
+      <Text>Both of them look at Rowan expectedly. Rowan peels the pills from her sweaty palm and swallows them dry. Seth pulls Rowan back, failing at his attempt to stop his friend.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="64a1850e-6c03-4266-82c5-32c994846bf9">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ec6538f7-1845-4686-a361-36e03de6e584">
+      <Text>Bro, what's wrong with you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="aee4f344-09f4-44ca-a964-4daae2fc9fe3">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="a4dc4efe-6518-45d2-b74a-6c28b3d02d9d">
+      <Text>Fuck off! You invited me here to have a good time, didn't you?</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="467b637b-e47a-42ee-be42-6077ae3af775">
+      <Text>SETH</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="236a92fe-cc0f-472e-a7b9-a3647cc6c10a">
+      <Text>I invited you here because you're my fucking friend, Rowan.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="2adc501c-43f6-47da-9006-913d6eab4679">
+      <Text>Rowan scoffs and pushes away from the scene. Grabbing a bottle of alcohol, he follows the music into the living room.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="be6de411-0a1b-441a-b039-f592546b2fad">
+      <SceneProperties Length="5/8" Page="10" Title="">
+        <SceneArcBeats/>
+      </SceneProperties>
+      <Text>INT. SETH'S HOUSE - LIVING ROOM - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="22916245-b38f-4400-a145-25d908ac70ba">
+      <Text>Multicolored lights flash across the room. Huge speakers blare music, drowning out Rowan's thoughts. Moving through the thick crowd of bodies, Rowan joins them.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="a5fc84cb-35fd-4973-852a-6bfdd95aad89">
+      <Text>Time passes quickly as the drugs take effect. Dancing to the music and downing his drink, Rowan's vision begins to distort his surroundings. The lights blend together, music fading in and out.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="e0426c9a-ed15-4308-953b-5f0bbb17ed72">
+      <Text>Rowan's depth perception warps, the careening people seeming much too close for comfort. As his breathing quickens, Rowan loses balance and falls to the ground, his drink crashing with him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="6ea3dc00-e74d-4989-95f2-59317718012f">
+      <Text>Peoples feet stomp across him, pinning him to the floor. Rowan calls out for help, but the music is too loud. He feels a pull at his neck, focusing on his chest to see that his necklace is missing. Crawling through the crowd, he searches for the cross, but can't see clear enough to find it.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="9cdf4591-9675-4cf6-b220-24dc83348e31">
+      <Text>His vision hyper-focusing, Rowan sees a glint ahead of him. Reaching as far as he can, he picks up the pieces of his broken necklace. Staring down at them, his face falls as his sense of reality kicks back in.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="4d8fc116-0598-4894-bf5f-3393c5c12aa5">
+      <Text>An overwhelming sorrow washes over him. Rowan hyperventilates as he pushes himself off the floor, clutching the pieces of the necklace in his fist. Stumbling to his feet, he rushes past the crowd towards the front door.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="1f16822f-f121-4be5-90c3-74610a4d3610">
+      <SceneProperties Length="2/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. SETH'S HOUSE - FRONT YARD - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="0059d580-2fc1-4e65-9886-139746956fa0">
+      <Text>Rushing out of the house, Rowan fumbles for his phone. Rowan dials a number, holding the phone up to his face. Fighting through his sobs, he attempts to catch a ride.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="3d2257f3-4df8-495a-b684-ee43946fcc8a">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f214d85a-edb2-41af-bb56-01b4bca48d38">
+      <Text>Hello?...I know it's late, I'm sorry... I'm okay. I need your help.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="85886e9e-5e34-4161-a1c4-a5c9a62626a2">
+      <SceneProperties Length="6/8" Page="10" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="MARIANNE">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>INT./EXT. MARIANNE'S CAR - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="19c417d7-b086-4af9-bb64-31f10363832c">
+      <Text>Rowan sits in the passengers seat as Marianne side-eyes him with a concerned look. His head is hung low, still breathing hard, staring at the broken parts of his necklace.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="59189830-de56-42ec-956c-4ec4b6cb21ff">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="ed01bec0-6895-412e-99c4-5afdd3b7d7ed">
+      <Text>She was on the way to pick me up. I could've taken the bus like always, but I didn't want to. I didn't want to.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="dba3d757-a185-495f-97d7-aa54e418c522">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="df54bc33-2b38-4125-83fe-168dfd0a1f95">
+      <Text>Rowan, slow down. It's not your fault.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="e01b18ef-98bb-47fb-97a9-9d576ba04713">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="f2d008b6-14a7-4eec-a260-10c5840bd747">
+      <Text>My mom didn't need to drive that day. If it weren't for me, she'd still be here. My mom would still be here if it weren't for me, Marianne.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="def9d34e-741a-4ace-853d-d9af669b1376">
+      <Text>Rowan continues to spill out everything. He tells her about his absence at the funeral, the fight with his dad, the divorce, the party, and all the guilt he'd been carrying with him.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="cb4691b0-23da-417f-8c76-8ae68d0e9daf">
+      <Text>Soon enough, the two pull up to Rowan's driveway. His father is waiting for him on the front porch. A moment passes.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="911cfd49-500b-45af-ba3d-a03802b299ed">
+      <Text>MARIANNE</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="6e0a4e29-a6cc-4f88-a372-d6a515641f95">
+      <Text>You are so strong, Rowan. It's time to face what's been happening. You can't keep running.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="c3961c3f-779c-4b7b-b00f-8107001d239a">
+      <Text>Rowan opens the car door, pushing the necklace into his pocket and stepping out.</Text>
+    </Paragraph>
+    <Paragraph Type="Scene Heading" id="9b1879a4-c46a-41b4-b38e-4fbdc2369ce9">
+      <SceneProperties Length="7/8" Page="11" Title="">
+        <SceneArcBeats>
+          <CharacterArcBeat Name="ROWAN">
+            <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="0" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+          </CharacterArcBeat>
+        </SceneArcBeats>
+      </SceneProperties>
+      <Text>EXT. ROWAN'S HOUSE - FRONT PORCH - NIGHT</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="56dcf38f-e7e7-407e-b85d-f6f97e5391d7">
+      <Text>Approaching his father, Rowan takes the crumbled paper back out of his pocket. Taking a deep breath, Rowan begins his speech.</Text>
+    </Paragraph>
+    <Paragraph Type="Character" id="ea82657e-772e-424a-afc1-bb839485b6f0">
+      <Text>ROWAN</Text>
+    </Paragraph>
+    <Paragraph Type="Dialogue" id="25b8c116-2943-4d94-af06-7b89acb6f489">
+      <Text>Dear Mom, Do you remember my 7th birthday? I was so excited to open all the presents you and dad had kept hidden for weeks. The hallway closet isn't a good hiding spot, by the way. Dad rented an inflatable bouncy house for the backyard. You had made invitations for me to hand out at school the day before. An hour into the party I realized that none of my friends were going to show. You pushed me in the bouncy house to try to distract me from the empty yard. We didn't notice the thunder over the sound of our own laughter until the bouncy house roof sunk in, water pooling in the top. You shrieked out for dad and he ran in with an old mop, poking the caved in roof, but the rain just kept pouring. We gave up and Dad rushed out of the bouncy house, trying to shield us from the rain. When we made it inside soaking wet, you pulled out a small wrapped box from your back pocket. When I opened the box inside was a small silver cross necklace. I looked up at you with the biggest smile on my face and gave you the tightest hug, not wanting to let go. I didn't know how real that feeling was until now. Although its just a memory, I would do anything to come back to you. I love you, mom.</Text>
+    </Paragraph>
+    <Paragraph Type="Action" id="d377a5c2-9399-4eba-bef5-bc3752535efb">
+      <Text>Rowan and his dad fall into each other.</Text>
+    </Paragraph>
+    <Paragraph Type="End of Act" id="26545c8b-2a09-412a-a87e-c734beccf59d">
+      <Text>THE END</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" OutlineLevel="1" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+    </DynamicContent>
+    <Distribution>
+      <Name></Name>
+    </Distribution>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">	</Text>
+        <DynamicLabel AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        <Tabstops>
+          <Tabstop Position="1.25" Type="Left"/>
+          <Tabstop Position="7.24" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BottomMargin="72" BreakDialogueAndActionAtSentences="Yes" DocumentLeading="Normal" FooterMargin="36" HeaderMargin="36" InvisiblesColor="#808080808080" TopMargin="72" UsesSmartQuotes="Yes">
+    <PageSize Height="11.00" Width="8.50"/>
+    <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
+  </PageLayout>
+
+  <WindowState Height="870" Left="0" Mode="Normal" Top="0" Width="870"/>
+
+  <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
+
+  <ElementSettings Type="General">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="General"/>
+    <Behavior PaginateAs="General" ReturnKey="General" Shortcut="0" TabKey="General" WinShortcut="0"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Scene Heading">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Scene Heading"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="1" TabKey="Action" WinShortcut="1"/>
+    <Outline CanHide="No" Level="2"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Action">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Action"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="2" TabKey="Character" WinShortcut="2"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Character">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="3.50" RightIndent="7.25" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Character"/>
+    <Behavior PaginateAs="Character" ReturnKey="Dialogue" Shortcut="3" TabKey="Transition" WinShortcut="3"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Parenthetical">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="-0.10" Leading="Regular" LeftIndent="3.00" RightIndent="5.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Parenthetical"/>
+    <Behavior PaginateAs="Parenthetical" ReturnKey="Dialogue" Shortcut="4" TabKey="Dialogue" WinShortcut="4"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Dialogue">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="2.50" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Dialogue"/>
+    <Behavior PaginateAs="Dialogue" ReturnKey="Action" Shortcut="5" TabKey="Parenthetical" WinShortcut="5"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Transition">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="5.50" RightIndent="7.10" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Transition"/>
+    <Behavior PaginateAs="Transition" ReturnKey="Scene Heading" Shortcut="6" TabKey="Scene Heading" WinShortcut="6"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Shot">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Shot"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Action" Shortcut="7" TabKey="Action" WinShortcut="7"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Cast List">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.50" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No" Type="Cast List"/>
+    <Behavior PaginateAs="Action" ReturnKey="Action" Shortcut="8" TabKey="Action" WinShortcut="8"/>
+    <Outline CanHide="No" Level="1"/>
+  </ElementSettings>
+
+  <ElementSettings Type="New Act">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="Yes" Type="New Act"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="9" TabKey="Scene Heading" WinShortcut="9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Sequence">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="Sequence"/>
+    <Behavior PaginateAs="Scene Heading" ReturnKey="Scene Heading" Shortcut="Ctrl+8" TabKey="Scene Heading" WinShortcut="Shift+8"/>
+    <Outline CanHide="No" Level="4"/>
+  </ElementSettings>
+
+  <ElementSettings Type="End of Act">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+Underline+AllCaps"/>
+    <ParagraphSpec Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="24" Spacing="1" StartsNewPage="No" Type="End of Act"/>
+    <Behavior PaginateAs="Character" ReturnKey="New Act" Shortcut="Ctrl+9" TabKey="New Act" WinShortcut="Shift+9"/>
+    <Outline CanHide="No" Level="6"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Summary">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Summary"/>
+    <Behavior PaginateAs="Outline Body" ReturnKey="Summary" Shortcut="Ctrl+0" TabKey="Outline 1" WinShortcut="Shift+0"/>
+    <Outline CanHide="Yes" Level="0"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 1">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="16" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.88" RightIndent="7.50" SpaceBefore="16" Spacing="1" StartsNewPage="No" Type="Outline 1"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+1" TabKey="Outline 2" WinShortcut="Shift+1"/>
+    <Outline CanHide="Yes" Level="7"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 2">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="14" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.12" RightIndent="7.50" SpaceBefore="14" Spacing="1" StartsNewPage="No" Type="Outline 2"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+2" TabKey="Outline 3" WinShortcut="Shift+2"/>
+    <Outline CanHide="Yes" Level="5"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Outline 3">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Bold+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.38" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Outline 3"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+3" TabKey="Note" WinShortcut="Shift+3"/>
+    <Outline CanHide="Yes" Level="3"/>
+  </ElementSettings>
+
+  <ElementSettings Type="Note">
+    <FontSpec AdornmentStyle="0" Color="#87878F8FE0E0" Font="Arial" RevisionID="0" Size="12" Style="Italic+HiddenText"/>
+    <ParagraphSpec Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.62" RightIndent="7.50" SpaceBefore="12" Spacing="1" StartsNewPage="No" Type="Note"/>
+    <Behavior PaginateAs="Outline" ReturnKey="Summary" Shortcut="Ctrl+4" TabKey="Summary" WinShortcut="Shift+4"/>
+    <Outline CanHide="Yes" Level="1"/>
+  </ElementSettings>
+
+  <TitlePage>
+    <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="No" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+      <Header>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+          <DynamicLabel AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="" Type="Page #"/>
+          <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
+        </Paragraph>
+      </Header>
+      <Footer>
+        <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.25" OutlineLevel="1" RightIndent="-1.25" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      </Footer>
+    </HeaderAndFooter>
+    <Content>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Full" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">DEAR MOM,</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">WRITTEN BY</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No"/>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">GROUP 1:</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MAYA HAWKINS, DESEAN HENDRICKS,</Text>
+      </Paragraph>
+      <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" OutlineLevel="1" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">CONOR CUMMINGS &amp; MARCOS O MONTALVO</Text>
+      </Paragraph>
+    </Content>
+    <TextState Scaling="100" Selection="16,25" ShowInvisibles="No"/>
+  </TitlePage>
+
+  <SmartType>
+    <Characters>
+      <Character>MARIANNE</Character>
+      <Character>ROWAN</Character>
+      <Character>DAD</Character>
+      <Character>SETH</Character>
+      <Character>GIRL</Character>
+    </Characters>
+    <Extensions>
+      <Extension>(V.O.)</Extension>
+      <Extension>(O.S.)</Extension>
+      <Extension>(O.C.)</Extension>
+      <Extension>(CONT'D)</Extension>
+      <Extension>(SUBTITLE)</Extension>
+      <Extension>(TEXT)</Extension>
+      <Extension>(MUMBLES)</Extension>
+    </Extensions>
+    <SceneIntros Separator=". ">
+      <SceneIntro>INT</SceneIntro>
+      <SceneIntro>EXT</SceneIntro>
+      <SceneIntro>I/E</SceneIntro>
+      <SceneIntro>INT./EXT</SceneIntro>
+    </SceneIntros>
+    <Locations>
+      <Location>THERAPIST OFFICE</Location>
+      <Location>ROWAN</Location>
+      <Location>ROWAN'S HOUSE - BATHROOM</Location>
+      <Location>DAD</Location>
+      <Location>(CHUCKLES)</Location>
+      <Location>ROWAN'S HOUSE - MOM'S STUDY</Location>
+      <Location>ROWAN'S HOUSE</Location>
+      <Location>SETH'S HOUSE - FRONT YARD</Location>
+      <Location>SETH'S HOUSE - KITCHEN</Location>
+      <Location>SETH'S HOUSE - LIVING ROOM</Location>
+      <Location>MARIANNE'S CAR</Location>
+      <Location>ROWAN'S HOUSE - FRONT PORCH</Location>
+    </Locations>
+    <TimesOfDay Separator=" - ">
+      <TimeOfDay>DAY</TimeOfDay>
+      <TimeOfDay>NIGHT</TimeOfDay>
+      <TimeOfDay>AFTERNOON</TimeOfDay>
+      <TimeOfDay>MORNING</TimeOfDay>
+      <TimeOfDay>EVENING</TimeOfDay>
+      <TimeOfDay>LATER</TimeOfDay>
+      <TimeOfDay>MOMENTS LATER</TimeOfDay>
+      <TimeOfDay>CONTINUOUS</TimeOfDay>
+      <TimeOfDay>THE NEXT DAY</TimeOfDay>
+      <TimeOfDay>MAGIC HOUR</TimeOfDay>
+      <TimeOfDay>DAWN</TimeOfDay>
+      <TimeOfDay>DUSK</TimeOfDay>
+      <TimeOfDay>SAME</TimeOfDay>
+      <TimeOfDay>SAME TIME</TimeOfDay>
+    </TimesOfDay>
+    <Transitions>
+      <Transition>CUT TO:</Transition>
+      <Transition>FADE IN:</Transition>
+      <Transition>FADE OUT.</Transition>
+      <Transition>FADE TO:</Transition>
+      <Transition>DISSOLVE TO:</Transition>
+      <Transition>BACK TO:</Transition>
+      <Transition>MATCH CUT TO:</Transition>
+      <Transition>JUMP CUT TO:</Transition>
+      <Transition>FADE TO BLACK.</Transition>
+      <Transition>SMASH CUT TO:</Transition>
+      <Transition>CUT TO BLACK.</Transition>
+      <Transition>TIME CUT:</Transition>
+    </Transitions>
+  </SmartType>
+
+  <MoresAndContinueds>
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+    <DialogueBreaks AutomaticCharacterContinueds="Yes" BottomOfPage="Yes" DialogueBottom="(MORE)" DialogueTop="(CONT'D)" TopOfNext="Yes"/>
+    <SceneBreaks ContinuedNumber="No" SceneBottom="(CONTINUED)" SceneBottomOfPage="No" SceneTop="CONTINUED:" SceneTopOfNext="No"/>
+  </MoresAndContinueds>
+
+  <LockedPages/>
+
+  <Revisions ActiveSet="1" Location="7.75" RevisionMode="No" RevisionsShown="Active" ShowPageColor="No">
+    <Revision FullRevision="No" ID="1" Mark="*" Name="Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="2" Mark="*" Name="Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="3" Mark="*" Name="Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="4" Mark="*" Name="Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="5" Mark="*" Name="Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="6" Mark="*" Name="Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="7" Mark="*" Name="Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="8" Mark="*" Name="Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="9" Mark="*" Name="Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+    <Revision FullRevision="No" ID="10" Mark="*" Name="2nd White Rev. (mm/dd/yy)" PageColor="#FFFFFFFFFFFF" Style=""/>
+    <Revision FullRevision="No" ID="11" Mark="*" Name="2nd Blue Rev. (mm/dd/yy)" PageColor="#C6C6EDEDFEFE" Style=""/>
+    <Revision FullRevision="No" ID="12" Mark="*" Name="2nd Pink Rev. (mm/dd/yy)" PageColor="#FDFDCCCCD4D4" Style=""/>
+    <Revision FullRevision="No" ID="13" Mark="*" Name="2nd Yellow Rev. (mm/dd/yy)" PageColor="#FDFDFFFFABAB" Style=""/>
+    <Revision FullRevision="No" ID="14" Mark="*" Name="2nd Green Rev. (mm/dd/yy)" PageColor="#D1D1FEFED0D0" Style=""/>
+    <Revision FullRevision="No" ID="15" Mark="*" Name="2nd Goldenrod Rev. (mm/dd/yy)" PageColor="#FAFACDCD3939" Style=""/>
+    <Revision FullRevision="No" ID="16" Mark="*" Name="2nd Buff Rev. (mm/dd/yy)" PageColor="#FCFCEDED9D9D" Style=""/>
+    <Revision FullRevision="No" ID="17" Mark="*" Name="2nd Salmon Rev. (mm/dd/yy)" PageColor="#F8F8AEAE8E8E" Style=""/>
+    <Revision FullRevision="No" ID="18" Mark="*" Name="2nd Cherry Rev. (mm/dd/yy)" PageColor="#FBFBA4A4B4B4" Style=""/>
+    <Revision FullRevision="No" ID="19" Mark="*" Name="2nd Tan Rev. (mm/dd/yy)" PageColor="#FDFDF1F1C7C7" Style=""/>
+  </Revisions>
+
+  <SplitState ActivePanel="1" CardsAcross="2" ShowAction="Yes" ShowSceneTitle="Yes" ShowSummary="Yes" SplitMode="None" SplitterPosition="0">
+    <ScriptPanel DisplayMode="Page">
+      <FontSpec AdornmentStyle="0" Font="Arial" RevisionID="0" Size="12" Style=""/>
+    </ScriptPanel>
+  </SplitState>
+
+  <Macros>
+    <Macro Element="Scene Heading" Name="INT" Shortcut="Ctrl+Alt+1" Text="INT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="EXT" Shortcut="Ctrl+Alt+2" Text="EXT. " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="I/E" Shortcut="Ctrl+Alt+3" Text="I/E " Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="DAY" Shortcut="Ctrl+Alt+4" Text=" - DAY" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="NIGHT" Shortcut="Ctrl+Alt+5" Text=" - NIGHT" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="SUNRISE" Shortcut="Ctrl+Alt+6" Text=" - SUNRISE" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Scene Heading" Name="MAGIC" Shortcut="Ctrl+Alt+7" Text=" - MAGIC" Transition="Action">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="CONT" Shortcut="Ctrl+Alt+8" Text="continuing" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Parenthetical" Name="INTER" Shortcut="Ctrl+Alt+9" Text="interrupting" Transition="Dialogue">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="Ctrl+Alt+0" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="CUTTO" Shortcut="Ctrl+Shift+Alt+1" Text="CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Action" Name="FADEIN" Shortcut="Ctrl+Shift+Alt+2" Text="FADE IN:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADEOUT" Shortcut="Ctrl+Shift+Alt+3" Text="FADE OUT." Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FADETO" Shortcut="Ctrl+Shift+Alt+4" Text="FADE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="DISSLV" Shortcut="Ctrl+Shift+Alt+5" Text="DISSOLVE TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="BACKTO" Shortcut="Ctrl+Shift+Alt+6" Text="BACK TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="MATCHCUT" Shortcut="Ctrl+Shift+Alt+7" Text="MATCH CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="JUMPCUT" Shortcut="Ctrl+Shift+Alt+8" Text="JUMP CUT TO:" Transition="Scene Heading">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="Transition" Name="FBLACK" Shortcut="Ctrl+Shift+Alt+9" Text="FADE TO BLACK." Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+    <Macro Element="None" Name="" Shortcut="E" Text="" Transition="None">
+      <Alias Confirm="No" MatchCase="No" SmartReplace="Yes" Text="" WordOnly="No">
+        <ActivateIn Element="General"/>
+        <ActivateIn Element="Scene Heading"/>
+        <ActivateIn Element="Action"/>
+        <ActivateIn Element="Character"/>
+        <ActivateIn Element="Parenthetical"/>
+        <ActivateIn Element="Dialogue"/>
+        <ActivateIn Element="Transition"/>
+        <ActivateIn Element="Shot"/>
+      </Alias>
+    </Macro>
+  </Macros>
+
+  <Actors>
+    <Actor MacVoice="" Name="Man 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Man 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Woman 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Boy 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 1" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Girl 2" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Man" Pitch="Normal" Speed="Medium" WinVoice=""/>
+    <Actor MacVoice="" Name="Old Woman" Pitch="Normal" Speed="Medium" WinVoice=""/>
+  </Actors>
+
+  <Cast>
+    <Narrator Actor="Man 1">
+      <Element Type="Character"/>
+      <Element Type="Dialogue"/>
+    </Narrator>
+    <Member Actor="" Character="MARIANNE"/>
+    <Member Actor="" Character="ROWAN"/>
+    <Member Actor="" Character="DAD"/>
+    <Member Actor="" Character="SETH"/>
+    <Member Actor="" Character="GIRL"/>
+  </Cast>
+
+  <SceneNumberOptions LeftLocation="0.75" NumberScheme="1A" RightLocation="7.38" ShowNumbersOnLeft="Yes" ShowNumbersOnRight="Yes">
+    <FontSpec AdornmentStyle="0" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""/>
+  </SceneNumberOptions>
+
+  <CastList SortOption="Alphabetical">
+    <CustomOrder/>
+  </CastList>
+
+  <CharacterHighlighting>
+    <Character Color="#RRRRGGGGBBBB" Name="DAD" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="GIRL" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="MARIANNE" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="ROWAN" Visible="No"/>
+    <Character Color="#RRRRGGGGBBBB" Name="SETH" Visible="No"/>
+  </CharacterHighlighting>
+
+  <ScriptNavigatorPreferences>
+    <TableColumnSettings Filter="" IsSortAscending="Yes" Label="Script" SortColumn="" TableIdentifier="NavDynScenes" id="e4cc0e17-e966-404f-bacd-ec32b98f478a"/>
+  </ScriptNavigatorPreferences>
+
+  <AltCollection/>
+
+  <TargetScriptLength>120</TargetScriptLength>
+
+  <ListItems/>
+
+  <DisplayBoards>
+    <DisplayBoard Height="10000" Id="ea5ac6af-4926-415c-897c-51bfeff25831" ScrollOrigin="0,0" Type="Beat" Width="24000" ZoomLevel="100.000"/>
+    <DisplayBoard Height="90" Id="f54e428f-4469-484b-8c9d-7dba54866258" ScrollOrigin="0,0" Type="StoryMap" Width="14600" ZoomLevel="730.000">
+      <Lanes>
+        <Lane Id="f7afb03f-08f1-44d4-9c40-06826256c840" Label="Outline 1" Level="7" Type="Outline 1"/>
+        <Lane Id="cf114935-a6ee-482c-8935-13747975c358" Label="Outline 2" Level="5" Type="Outline 2"/>
+      </Lanes>
+    </DisplayBoard>
+  </DisplayBoards>
+
+  <Writers/>
+
+  <WriterMarkup State="Off"/>
+
+  <TagData>
+    <TagCategories>
+      <TagCategory Color="#00003600B700" Id="01fc9642-84ff-4366-b37c-a3068dee57e8" Name="Cast Members" Number="2" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="028a4e2b-b507-4d09-88ab-90e3edae9071" Name="Background Actors" Number="3" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0377dbe6-77a3-41af-bda8-86eb2468fdbf" Name="Stunts" Number="4" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="04721a56-f54b-49c8-80ad-d53887d6b851" Name="Vehicles" Number="5" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="05c556eb-6bc1-4a3a-b09f-f8b5ba1b6afa" Name="Props" Number="6" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="069e18b8-2109-4f3d-94e7-d802027a60a8" Name="Special Effects" Number="8" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0726fa85-1e65-4ab8-87de-bf21d09b01f0" Name="Wardrobe" Number="9" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="08ae1eef-32ce-415f-9a9b-0982d2453ec4" Name="Makeup/Hair" Number="10" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="09cb0d1c-ce01-4f22-bb64-b5f2e6c491c6" Name="Animals" Number="11" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ae40617-cc7c-48e6-ae2b-5aaecc09986f" Name="Animal Wrangler" Number="12" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0b0b44c9-aa4b-4c40-88b1-d94472ad7a26" Name="Music" Number="13" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ce7d308-096d-4603-8fe8-349f72cd89ff" Name="Sound" Number="15" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0debb71b-5743-4c53-80cc-e17e841ce645" Name="Set Dressing" Number="17" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0e7a8fc5-5441-4bad-a9bf-5ddd3fe51c69" Name="Greenery" Number="18" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="0ff5cda4-4d43-4cfe-940f-91380c46fdad" Name="Special Equipment" Number="19" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="109d0eaa-0334-4823-ac0c-b44d3f209dc4" Name="Security" Number="20" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="1179a4b1-70ee-4011-b4a2-809a0af09e92" Name="Additional Labor" Number="21" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="12ab0932-e3b9-4b4a-bcd0-3da1b4e61d5e" Name="Visual Effects" Number="23" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="135cc9d1-c4d5-4d00-83d9-571f584ea9cd" Name="Mechanical Effects" Number="24" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="15b6f4fd-4e74-4ad8-9971-b239d88c2997" Name="Notes" Number="26" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="216f33fd-fc42-4269-be01-b05b18f815a0" Name="Comments" Number="31" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="47b02ff1-5161-4137-b736-f36eebba7643" Name="Camera" Number="7" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="63c140da-ef2b-491a-b416-b46f461abb89" Name="Script Day" Number="27" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="70877d87-30ef-45b6-be46-c6fa94b83a71" Name="Sequence" Number="29" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="849f1ebf-5507-4f33-bff6-3a5b4d73be14" Name="Unit" Number="28" Style="Bold"/>
+      <TagCategory Id="8e5e75c2-713b-47df-a75f-f12648b98ded" Name="Synopsis" Number="1" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c5e89e4d-f83e-4c28-950c-92a63f1b5f26" Name="Location" Number="30" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="c86eae40-3b01-41c3-a7de-6859e6ec971d" Name="Art Department" Number="16" Style="Bold"/>
+      <TagCategory Color="#94AA11150000" Id="ce04f547-f7ee-40c9-ab66-d95a0c98034e" Name="Miscellaneous" Number="25" Style="Bold"/>
+    </TagCategories>
+  </TagData>
+
+  <Characters>
+    <CharacterTraitData>
+      <Traits>
+        <Trait ID="a771e8a7-0c6f-401c-ab87-b50f83fc64b4" Name="Age" Type="text"/>
+        <Trait ID="6b3a0017-69de-4c7a-b6e8-1d0b4d2ad047" Name="Disability" Type="text"/>
+        <Trait ID="4b987a9f-24dc-44ae-9bb5-0756485c1c80" Name="Ethnicity" Type="text"/>
+        <Trait ID="611965b7-ffab-41a1-a154-023ea8caf768" Name="Gender" Type="text"/>
+        <Trait ID="9b51b304-a8c0-4277-a841-342b5f84fc65" Name="Occupation" Type="text"/>
+        <Trait ID="ecdbbc67-9a69-40dc-8e9f-745a665ab73a" Name="Orientation" Type="text"/>
+        <Trait ID="338d378b-5235-40ad-8102-0dbe0b32ff84" Name="Role" Type="text"/>
+      </Traits>
+      <Holders/>
+    </CharacterTraitData>
+    <ChartOptions Identifier="InclusivityAnalysis">
+      <FilterSets/>
+    </ChartOptions>
+  </Characters>
+
+  <ScriptNotes/>
+
+  <Navigator>
+    <Tabs>
+      <Tab id="e4cc0e17-e966-404f-bacd-ec32b98f478a"/>
+    </Tabs>
+  </Navigator>
+
+  <Images/>
+
+  <Outlines Paragraphs="Show" StructureLines="Hide"/>
+
+</FinalDraft>
